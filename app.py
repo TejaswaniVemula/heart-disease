@@ -9,7 +9,7 @@ scaler = joblib.load("scaler.pkl")
 
 st.set_page_config(page_title="Heart Disease Prediction", layout="centered")
 
-st.title("❤️ Heart Disease Prediction App")
+st.title("🫀 Heart Disease Prediction App")
 st.write("Enter the patient details below to check the risk of heart disease.")
 
 # Input fields
